@@ -1,8 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="hide terminal">
-      <action id="ActivateTerminalToolWindow" />
-      <action id="HideActiveWindow" />
-    </macro>
-  </component>
-</application>
